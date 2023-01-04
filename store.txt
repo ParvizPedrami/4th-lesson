@@ -1,0 +1,6 @@
+1001,chips,1$,15
+1002,lollypops,0.25$,20
+1003,popcorn 30g,1.5$,16
+1004,gums 12pcs.,1$,12
+1005,cakes,3$,10
+1006,multifruit juice 1L,1$,25
